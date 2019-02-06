@@ -18,6 +18,10 @@ Você deve utilizar a api do Movies DB (https://developers.themoviedb.org) para 
 - Deve possibilitar a busca de filmes por uma caixa de texto (fique atento ao limite de requisições por segundo/minuto). Uma dica aqui é utilizar uma função throttle ou debounce.
 - Deve seguir o layout que será enviado para você.
 
+## Como enviar
+Você deve fazer um fork desse repositório, e quando terminar, fazer um pull request de volta.
+Pode nos enviar o link do seu fork. ;)
+
 ## Como fazer e o que utilizar
 Fica a seu critério utilizar Javascript puro, Vue, React, Angular. (mas por aqui usamos React)
 Não necessariamente é necessário usar nossa Stack de tecnologias. Se sinta livre para propor e fazer como achar melhor.
