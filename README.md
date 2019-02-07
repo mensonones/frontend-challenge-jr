@@ -28,7 +28,7 @@ Não necessariamente é necessário usar nossa Stack de tecnologias. Se sinta li
 
 # Critério de avaliação
 
-Basicamente, só queremos ver se você consegue escrever um código limpo, reutilizável e se tem conhecimento da tecnologia adotada.
+Basicamente, só queremos ver se você consegue escrever um código limpo, reutilizável e se tem conhecimento da tecnologia adotada (criatividade e proatividade são um plus).
 
 No mais, faremos uma entrevista após o teste para conversar sobre como foi feito.
 
